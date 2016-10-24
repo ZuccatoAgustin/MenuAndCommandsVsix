@@ -1,0 +1,7 @@
+C:\Users\Agustin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Microsoft Corp\MenuAndCommands\1.0\\Microsoft.Samples.VisualStudio.MenuAndCommands.dll
+C:\Users\Agustin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Microsoft Corp\MenuAndCommands\1.0\\Microsoft.Samples.VisualStudio.MenuAndCommands.pkgdef
+C:\Users\Agustin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Microsoft Corp\MenuAndCommands\1.0\\extension.vsixmanifest
+C:\Users\Agustin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Microsoft Corp\MenuAndCommands\1.0\\CustomMoniker.imagemanifest
+C:\Users\Agustin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Microsoft Corp\MenuAndCommands\1.0\\Example.MenuAndCommands.png
+C:\Users\Agustin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Microsoft Corp\MenuAndCommands\1.0\Resources\\Package.ico
+C:\Users\Agustin\AppData\Local\Microsoft\VisualStudio\14.0Exp\Extensions\Microsoft Corp\MenuAndCommands\1.0\\Microsoft.Samples.VisualStudio.MenuAndCommands.pdb
