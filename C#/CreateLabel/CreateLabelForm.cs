@@ -42,9 +42,11 @@ namespace Microsoft.Samples.VisualStudio.MenuCommands.CreateLabel
                 if (!string.IsNullOrEmpty(this.txt_value2.Text))
                 {
                     traEng = this.txt_value2.Text;
+
+                    //
                 }
 
-
+                //agrego la tradduccion
                 mr.Traducciones.Add(new Traducciones() { KEY = this.txt_key.Text, LenguageID = 2, Value = traEng });
                 mr.SaveChanges();
 
